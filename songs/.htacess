@@ -1,0 +1,1 @@
+Options -Indexes +ExecCGI AddHandler cgi-script .cgi .pl
